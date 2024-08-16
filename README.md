@@ -1,4 +1,4 @@
-##Facial and Gesture Recognition System
+Facial and Gesture Recognition System
 Overview
 This project aims to create a real-time system that can simultaneously recognize facial expressions and sign language gestures. It leverages advanced deep learning models—EfficientNet for facial recognition and YOLOv5 for sign language detection—integrated within a single Python application. The system is designed to enhance human-computer interaction by interpreting emotions and gestures in real time.
 
